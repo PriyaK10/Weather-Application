@@ -1,8 +1,6 @@
 package com.example.weatherforecast;
 
-/**
- * Created by Nikita on 10/19/2016.
- */
+
 public class Favorites {
     String city,country,temp;
     String favorite;
