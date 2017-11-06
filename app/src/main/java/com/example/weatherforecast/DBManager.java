@@ -5,9 +5,7 @@ import android.database.sqlite.SQLiteDatabase;
 
 import java.util.List;
 
-/**
- * Created by Nikita on 10/19/2016.
- */
+
 public class DBManager {
     private SQLiteDatabase db;
     private Context context;
