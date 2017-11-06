@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 /**
- * Created by Nikita on 10/19/2016.
+ * Created by Priya on 10/19/2016.
  */
 public class DBOpenHelper extends SQLiteOpenHelper {
     static final String DB_NAME="fav.db";
