@@ -12,9 +12,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by Nikita on 10/19/2016.
- */
+
 public class FavDAO {
     SQLiteDatabase db;
 
