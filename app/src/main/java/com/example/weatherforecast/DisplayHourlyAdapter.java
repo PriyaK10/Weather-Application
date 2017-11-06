@@ -17,9 +17,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
-/**
- * Created by Nikita on 10/20/2016.
- */
+
 public class DisplayHourlyAdapter extends RecyclerView.Adapter<DisplayHourlyAdapter.ViewHolder> {
     ArrayList<Forecast> forecastList;
     Context context;
