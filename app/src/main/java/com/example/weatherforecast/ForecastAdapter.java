@@ -20,9 +20,7 @@ import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 
-/**
- * Created by Nikita on 10/19/2016.
- */
+
 public class ForecastAdapter extends RecyclerView.Adapter<ForecastAdapter.ViewHolder> {
     ArrayList<Forecast> forecastList;
     Context context;
