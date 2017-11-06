@@ -11,9 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
-/**
- * Created by Nikita on 10/19/2016.
- */
+
 public class ForecastUtil {
 
     public static ArrayList<Forecast> GetJson(String sb) {
