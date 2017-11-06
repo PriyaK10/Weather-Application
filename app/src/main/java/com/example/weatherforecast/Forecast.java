@@ -1,8 +1,5 @@
 package com.example.weatherforecast;
 
-/**
- * Created by Nikita on 10/19/2016.
- */
 public class Forecast {
     String   cityname,country, date,Time,icon, temp, Condition, Pressure, Humidity, Wind;
 
