@@ -10,9 +10,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
-/**
- * Created by Nikita on 10/19/2016.
- */
+
 public class ParseForecastAsync extends AsyncTask<String,Void,ArrayList<Forecast>> {
     String read;
     SetForecast ref;
