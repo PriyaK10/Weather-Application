@@ -19,9 +19,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
-/**
- * Created by Nikita on 10/20/2016.
- */
+
 public class FavoriteAdapter extends RecyclerView.Adapter<FavoriteAdapter.ViewHolder> {
     ArrayList<Favorites> forecastList;
     Context context;
